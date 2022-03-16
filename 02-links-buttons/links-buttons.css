@@ -1,0 +1,19 @@
+.btn {
+    background-color: lightblue;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    border-radius: 5px;
+    color: black;
+}
+
+.btn:hover {
+    background-color: cyan;
+}
+
+.btn:active {
+    background-color: darkcyan;
+}
